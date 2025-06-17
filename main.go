@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	resp, err := upstreamservice.GetSingleResponseByLatAndLong(53.1900, -112.2500)
+	resp, err := windyapi.GetWeather(53.1900, -112.2500)
 	if err != nil {
 		fmt.Println(err)
 		return
