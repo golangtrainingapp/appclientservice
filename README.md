@@ -1,2 +1,2 @@
 # AppClientService
-Client Application that invokes service
+Client Application that invokes service. Details will be added later
