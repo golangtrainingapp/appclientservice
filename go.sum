@@ -4,3 +4,5 @@ github.com/golangtrainingapp/upstreamservice v1.2.0 h1:0Ho0b9jC+iDmvTTfd4squRfjd
 github.com/golangtrainingapp/upstreamservice v1.2.0/go.mod h1:fFyfIIPxFdEVcCCMet1+wsRjBexY61CSWzfzVP0Fb/A=
 github.com/golangtrainingapp/upstreamservice v1.3.0 h1:1OnUZLECCPGWHJNE+JsxA9jOqWUFbRb8CigBW+UdHfs=
 github.com/golangtrainingapp/upstreamservice v1.3.0/go.mod h1:fFyfIIPxFdEVcCCMet1+wsRjBexY61CSWzfzVP0Fb/A=
+github.com/golangtrainingapp/windyapiservice v1.4.0 h1:E3Si0Y5RvcUKKqGqxGG1OFiAEXfDXQMn7Jghr9AFYi8=
+github.com/golangtrainingapp/windyapiservice v1.4.0/go.mod h1:cy9dLDmKzctOMhvlQDv6fdhfn5LkPDEHyfL5EiPzhyM=
